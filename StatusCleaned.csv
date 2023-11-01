@@ -1,0 +1,178 @@
+ID,stat_desc,decis_desc,StatusCleaned
+1,Application refused,application refused,Refused
+2,Application Permitted,application  approved,Approved
+3,Approved with Conditions,approve with conditions,Approved
+4,Approved Conditionally with Legal Agr,approve conditionally & legal agreement,Approved
+5,Application Withdrawn,withdrawn,Withdrawn
+6,Granted Conditionally,grant conditionally,Approved
+7,Grant subject to condition(s),grant subject to condition(s),Approved
+8,Application Permitted with Conditions,application permitted with conditions,Approved
+9,Consent with Conditions,grant with conditions,Approved
+10,Application Permitted,permitted,Approved
+11,Application Approved,approved,Approved
+12,Permission Granted,application permitted,Approved
+13,Application Withdrawn,application withdrawn,Withdrawn
+14,Grant Subject to Conditions,grant subject to conditions,Approved
+15,Withdrawn,withdrawn,Withdrawn
+16,Application approved,application approved,Approved
+17,Decided - Grant/Condition(s) and S69,grant subject to condition and s69,Approved
+18,Application Granted,granted,Approved
+19,Grant (No Conditions),grant without conditions,Approved
+20,Decided - Refuse,refuse,Refused
+21,Decided - Grant Subject to Condition(s),grant subject to condition(s),Approved
+22,Application Refused,refuse,Refused
+23,Application Refused,refused,Refused
+24,Approved Subject to Conditions,approved subject to conditions,Approved
+25,Approved subject to conditions,approval subject to conditions,Approved
+26,Appeal Upheld,application refused,Refused
+27,Application Approved With Conditions,approved subject to conditions,Approved
+28,Detail - Granted,grant planning permission,Approved
+29,Application Approved,approve the application,Approved
+30,Application Refused,refuse the application,Refused
+31,,grant unconditionally,Approved
+32,Called in by CNPA,called in by cnpa,Other
+33,Local Review Requested,refuse,Other
+34,Application Permitted,application permitted,Approved
+35,Approved with Conditions,approved with conditions,Approved
+36,Appeal Dismissed,refusal,Refused
+37,Decided - Grant/Condition(s) and S75,grant subject to condition and s75,Approved
+38,Permitted Development,permitted development,Approved
+39,Grant,grant,Approved
+40,Local Review Body Allowed,refused,Approved
+41,Application Permitted,application approved,Approved
+42,Withdrawn,withdrawn by applicant,Withdrawn
+43,Conditional Approval/Legal Agreement,conditional approval/legal agreement,Approved
+44,Approved Conditionally,approve conditionally,Approved
+45,Withdrawn by Applicant,withdrawn by applicant,Withdrawn
+46,Approve,approve,Approved
+47,Granted Subject to Conditions,granted subject to conditions,Approved
+48,Review Dismissed by Local Review Body,refuse the application,Refused
+49,LRB Dismissed,refused,Refused
+50,Refused by CNPA,refused by cnpa,Refused
+51,Application Refused,refusal,Refused
+52,Review Refused,refuse planning permission,Refused
+53,Approved by CNPA,approved by cnpa,Approved
+54,Insufficient Fee,grant subject to conditions,Other
+55,Dismissed by LRB,refused,Refused
+56,Approved with no Conditions,approved with no conditions,Approved
+57,Granted,grant,Approved
+58,Withdrawn,application withdrawn,Withdrawn
+59,Withdrawn,withdrawn after validation,Withdrawn
+60,Granted Conditionally,refuse,Approved
+61,Approved,approved,Approved
+62,Withdrawn Validated,withdrawn registered,Withdrawn
+63,Refused,refuse,Refused
+64,Refused,refused,Refused
+65,,refuse,Refused
+66,LRB - Interim Decision (Approval and LA),application refused,Approved
+67,Approved,approve,Approved
+68,Application Permitted - no conditions,application permitted - no conditions,Approved
+69,Application Permitted,approved,Approved
+70,Local Review Dismissed,refused,Refused
+71,Pending Consideration,,Pending
+72,Refused at Local Review Body,refuse,Refused
+73,Decision Upheld at LRB,refuse,Refused
+74,Withdrawn,refuse,Withdrawn
+75,Application Refused-LRB Approved,refused,Approved
+76,Deemed Refusal,deemed refusal,Refused
+77,Local Review Requested,application permitted,Other
+78,Appeal Allowed,application refused,Approved
+79,Local Review Requested,application refused,Other
+80,Withdrawn after being called in by CNPA,withdrawn after being called in by cnpa,Withdrawn
+81,Decision Reversed at LRB,refuse,Other
+82,Approved Unconditionally,approve unconditionally,Approved
+83,Pending - Consideration,,Pending
+84,Granted,granted,Approved
+85,Local Review Requested,refused,Other
+86,Approved at Local Review Body,refuse,Approved
+87,PLRB dismissed,,Refused
+88,Mixed Decision,mixed decision,Other
+89,Approved with Conditions (Section 75),approve - subject to section 75,Approved
+90,Application Withdrawn,application withdrawn (valid app),Withdrawn
+91,Pending decision,,Pending
+92,Appeal Dismissed,refuse,Refused
+93,Dormant Application,dormant application,Other
+94,LRB Allowed,refused,Approved
+95,Review Upheld by Local Review Body,refuse the application,Refused
+96,Local Review Allowed,refused,Approved
+97,Appeal Allowed,refuse,Approved
+98,Detail Refused,refuse planning permission,Refused
+99,Listed Building Consent,listed building consent,Other
+100,Pending Decision,application  approved,Pending
+101,Withdrawn - Legacy Application,withdrawn - legacy application,Withdrawn
+102,Pending - Decision,granted subject to conditon and s75,Pending
+103,PLRB dismissed,application refused,Refused
+104,Pending - Decision,,Pending
+105,Decided - Grant/Condition(s) and S75,granted subject to conditon and s75,Approved
+106,,grant conditionally with legal agreement,Approved
+107,,application refused,Refused
+108,Review Allowed with Conditions,deemed to have been refused,Refused
+109,Allowed on Condtion Section 75,refuse,Approved
+110,Local Review - Decision Upheld,application permitted with conditions,Approved
+111,Local Review Body Allowed,granted subject to conditions,Approved
+112,LRB In Progress,refusal,Other
+113,Local Review Requested,deemed refused,Other
+114,External Decision- Granted,external grant,Approved
+115,Approved Unconditionally with Legal Agr,approve unconditionally with legal agre.,Approved
+116,Review Refused,refuse,Refused
+117,LRB - Decision Upheld (Refuse),application refused,Refused
+118,Decided - Grant,grant,Approved
+119,Approved subject to Section 75 Agreement,,Approved
+120,Appeal Upheld,to be decided by committee,Other
+121,LRB - Decision Varied (Refuse),application refused,Refused
+122,Proposal Does Not Constitute Development,not development,Other
+123,Local Review Requested,refuse planning permission,Other
+124,Insufficient Fee,application  approved,Other
+125,Application Refused-LRB Approved,approved,Approved
+126,Review Upheld - Awaiting Notice,refuse the application,Refused
+127,Called in by Cairngorm National Park,called in by cairngorm national park,Other
+128,External Decision- Refused,external refuse,Refused
+129,Review Upheld by Local Review Body,approve the application,Approved
+130,Refusal/Enforcement Action,refusal/enforcement action,Refused
+131,Grant subject to a Section 75 Agreement,grant subject to a section 75 agreement,Approved
+132,Pending Decision,application permitted,Pending
+133,LRB - Decision Reversed (Approve),application refused,Approved
+134,Non-determination of application,non-determination of application,Other
+135,Case CLOSED,case closed,Other
+136,Local Review Requested,grant subject to conditions,Other
+137,,non-determined,Other
+138,LRB - Decision Upheld (Refuse),refusal/enforcement action,Refused
+139,Local Review Withdrawn,refused,Other
+140,LRB Deferred for further information,refuse the application,Other
+141,,grant subject to condition(s),Approved
+142,,application permitted,Approved
+143,Pending Decision,refuse,Pending
+144,Deemed Refused,deemed refused,Refused
+145,Refused and Enforce,refused and enforced,Refused
+146,Declined to Determine,decline to determine,Other
+147,Dealt with by CNPA,dealt with by cnpa,Other
+148,Pending Decision,application refused,Pending
+149,Pending - Decision,grant subject to condition and s69,Pending
+150,Pending Decision,approve conditionally & legal agreement,Pending
+151,Approved (Section S75),approve - subject to section 75,Approved
+152,LRB Allowed,approved subject to conditions,Approved
+153,Grant Consent,grant,Approved
+154,PLRB sustained,application refused,Other
+155,Appeal dismissed,application refused,Refused
+156,Application Permitted,grant,Approved
+157,Pending Decision,approve - subject to section 75,Pending
+158,Pending Decision,approved with conditions,Pending
+159,Local Review Requested,deemed refusal,Other
+160,Temporary Permission,temporary permission,Other
+161,Pending - Decision,refuse,Pending
+162,Pending Decision,conditional approval/legal agreement,Pending
+163,Pending Decision,approved,Pending
+164,Pending Decision,application withdrawn,Pending
+165,Pending Decision,grant conditionally,Pending
+166,Pending Decision,permitted,Pending
+167,Pending Decision,refused,Pending
+168,Pending decision,application approved,Pending
+169,Pending Decision,grant planning permission,Pending
+170,Pending Decision,approve the application,Pending
+171,Pending Decision,grant subject to conditions,Pending
+172,Pending Decision,withdrawn,Pending
+173,Insufficient Fee,,Other
+174,minded to grant - legal agreement,pending decision,Pending
+175,minded to grant planning permission,pending decision,Pending
+176,local authority decision,local authority decision,Local Authority Decision
+,,,
