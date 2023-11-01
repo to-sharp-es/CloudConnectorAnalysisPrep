@@ -18,7 +18,7 @@ from nltk.stem import PorterStemmer
 from sklearn.metrics.pairwise import cosine_similarity
 
 
-#read in the training set that i coded up myself - not yet checked by anyone who knows what they are doing!
+#read in the training set that i coded up myself - not yet checked by anyone who knows what they are doing(!)
 textStatus = pd.read_csv("StatusCleaned.csv")
 
 # prep the training data
