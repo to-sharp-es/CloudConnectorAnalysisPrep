@@ -19,7 +19,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 
 #read in the training set that i coded up myself - not yet checked by anyone who knows what they are doing!
-textStatus = pd.read_csv("link to the training data csv")
+textStatus = pd.read_csv("StatusCleaned.csv")
 
 # prep the training data
 # here we are creating a combined decision and status, which helps to flag up those where the two appear to contradict each other (decision says approve, status says reject), and makes sure they get logged for checking by a human
